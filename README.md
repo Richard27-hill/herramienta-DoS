@@ -1,9 +1,20 @@
-Herramienta en Python 
+# Herramienta en Python (Versión Mejorada V2)
 
-![Vista previa](foto.png)
+> **Actualización:** Versión optimizada con análisis avanzado y mayor letalidad.
 
-> **Entorno:** Probada en Win 10 
-> (si tiene error instale los requerimientos).
+## 📸 Vistas Previas
+
+### Foto 1 (Interfaz Original / Base)
+![Vista previa foto 1](foto.png)
+
+### Foto 2 V2 (Versión Mejorada)
+![Vista previa foto 2 V2](foto2.png)
+
+---
+
+## ⚙️ Entorno y Requisitos
+* **Entorno:** Probada en Windows 10.
+* **Aviso:** Si experimenta errores, asegúrese de instalar los requerimientos necesarios.
 
 ## 💻 Ejecución
 ```bash
