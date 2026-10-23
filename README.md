@@ -8,7 +8,7 @@
 ![Vista previa foto 1](foto.png)
 
 ### Foto 2 V2 (Versión Mejorada)
-![Vista previa foto 2 V2](foto2.png)
+![Vista previa foto 2 V2](Foto2.png)
 
 ---
 
